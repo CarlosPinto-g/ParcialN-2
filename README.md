@@ -1,6 +1,6 @@
 # ParcialN°_2
 
-```
+```Python
 
 # Programa_que_determina_si_una_lista_tiene_elementos_repetidos
 
