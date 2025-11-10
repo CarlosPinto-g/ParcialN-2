@@ -1,6 +1,6 @@
 # ParcialN°_2
 
-### 1) Desarrolle un programa quue
+### 1) Desarrolle un programa que determine si una lista tiene elementos repetidos
 ```Python
 
 # Programa_que_determina_si_una_lista_tiene_elementos_repetidos
@@ -16,8 +16,10 @@ mi_lista = [1, 2, 3, 4, 5]
 sin_repetidos(mi_lista)
 
 ```
+## iMAGEN
+[![Captura-de-pantalla-2025-11-10-125006.png](https://i.postimg.cc/mDs5wCG4/Captura-de-pantalla-2025-11-10-125006.png)](https://postimg.cc/5Hsg9H0K)
 
-
+### 2) Desarrolle un progrma que determine si en una lista existe una cadena con dos o mas vocales
 ```Python
 
 #Programa_que_determina_si_en_una_lista_existe_una_cadena_con_dos_o_más_vocales
@@ -38,7 +40,7 @@ cadena_con_dos_vocales(lista_palabras)
 
 ```
 
-
+### 3) Desarrolle un programa que dada dos listas determine que, queé elemenetos tiene la primera lista que no tenga la segunda
 ```Python
 
 #Desarrolle_un_programa_que_dada_dos_listas_determiene_que_elementos_tiene_la_primera_lista_que_no_tenga_la_segunda
@@ -60,7 +62,7 @@ print("Elementos que están en la primera lista y no en la segunda:", unicos)
 
 ```
 
-
+### 4) Desarrolle un algoritmo que calcule el promedio de un arreglo de reales
 ```Python
 
 #Desarrollar_un_algoritmo_que_calcule_el_promedio_de_un_arreglo_de_reales
