@@ -19,6 +19,9 @@ sin_repetidos(mi_lista)
 ## Imagen
 [![Captura-de-pantalla-2025-11-10-125006.png](https://i.postimg.cc/mDs5wCG4/Captura-de-pantalla-2025-11-10-125006.png)](https://postimg.cc/5Hsg9H0K)
 
+
+
+
 ### 2) Desarrolle un progrma que determine si en una lista existe una cadena con dos o mas vocales
 ```Python
 
@@ -39,6 +42,11 @@ lista_palabras = ["sol", "mar", "flor", "cielo"]
 cadena_con_dos_vocales(lista_palabras)
 
 ```
+## Imagen
+[![Captura-de-pantalla-2025-11-10-125314.png](https://i.postimg.cc/FFcjv8cj/Captura-de-pantalla-2025-11-10-125314.png)](https://postimg.cc/Thdyqktw)
+
+
+
 
 ### 3) Desarrolle un programa que dada dos listas determine que, queé elemenetos tiene la primera lista que no tenga la segunda
 ```Python
@@ -59,8 +67,12 @@ unicos = elementos_unicos(lista1, lista2)
 
 print("Elementos que están en la primera lista y no en la segunda:", unicos)
 
-
 ```
+## Imagen 
+[![Captura-de-pantalla-2025-11-10-125423.png](https://i.postimg.cc/HkjnY8Rd/Captura-de-pantalla-2025-11-10-125423.png)](https://postimg.cc/sMdsKx3N)
+
+
+
 
 ### 4) Desarrolle un algoritmo que calcule el promedio de un arreglo de reales
 ```Python
@@ -80,7 +92,8 @@ arreglo = [3.5, 4.0, 5.5, 2.0]
 print("El promedio es:", promedio_arreglo(arreglo))
 
 ```
-
+## Imagen
+[![Captura-de-pantalla-2025-11-10-125527.png](https://i.postimg.cc/dVzsJHG3/Captura-de-pantalla-2025-11-10-125527.png)](https://postimg.cc/CRsTN4Pp)
 
 
 
