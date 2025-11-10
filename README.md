@@ -1,5 +1,6 @@
 # ParcialN°_2
 
+### 1) Desarrolle un programa quue
 ```Python
 
 # Programa_que_determina_si_una_lista_tiene_elementos_repetidos
@@ -17,7 +18,7 @@ sin_repetidos(mi_lista)
 ```
 
 
-```
+```Python
 
 #Programa_que_determina_si_en_una_lista_existe_una_cadena_con_dos_o_más_vocales
 def cadena_con_dos_vocales(lista):
@@ -38,7 +39,7 @@ cadena_con_dos_vocales(lista_palabras)
 ```
 
 
-```
+```Python
 
 #Desarrolle_un_programa_que_dada_dos_listas_determiene_que_elementos_tiene_la_primera_lista_que_no_tenga_la_segunda
 
@@ -60,7 +61,7 @@ print("Elementos que están en la primera lista y no en la segunda:", unicos)
 ```
 
 
-```
+```Python
 
 #Desarrollar_un_algoritmo_que_calcule_el_promedio_de_un_arreglo_de_reales
 
