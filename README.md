@@ -16,7 +16,7 @@ mi_lista = [1, 2, 3, 4, 5]
 sin_repetidos(mi_lista)
 
 ```
-## Imagen
+## Imagen N°1
 [![Captura-de-pantalla-2025-11-10-125006.png](https://i.postimg.cc/mDs5wCG4/Captura-de-pantalla-2025-11-10-125006.png)](https://postimg.cc/5Hsg9H0K)
 
 
@@ -42,7 +42,7 @@ lista_palabras = ["sol", "mar", "flor", "cielo"]
 cadena_con_dos_vocales(lista_palabras)
 
 ```
-## Imagen
+## Imagen N°2
 [![Captura-de-pantalla-2025-11-10-125314.png](https://i.postimg.cc/FFcjv8cj/Captura-de-pantalla-2025-11-10-125314.png)](https://postimg.cc/Thdyqktw)
 
 
@@ -68,7 +68,7 @@ unicos = elementos_unicos(lista1, lista2)
 print("Elementos que están en la primera lista y no en la segunda:", unicos)
 
 ```
-## Imagen 
+## Imagen N°3
 [![Captura-de-pantalla-2025-11-10-125423.png](https://i.postimg.cc/HkjnY8Rd/Captura-de-pantalla-2025-11-10-125423.png)](https://postimg.cc/sMdsKx3N)
 
 
@@ -92,7 +92,7 @@ arreglo = [3.5, 4.0, 5.5, 2.0]
 print("El promedio es:", promedio_arreglo(arreglo))
 
 ```
-## Imagen
+## Imagen N°4
 [![Captura-de-pantalla-2025-11-10-125527.png](https://i.postimg.cc/dVzsJHG3/Captura-de-pantalla-2025-11-10-125527.png)](https://postimg.cc/CRsTN4Pp)
 
 
