@@ -16,7 +16,7 @@ mi_lista = [1, 2, 3, 4, 5]
 sin_repetidos(mi_lista)
 
 ```
-## iMAGEN
+## Imagen
 [![Captura-de-pantalla-2025-11-10-125006.png](https://i.postimg.cc/mDs5wCG4/Captura-de-pantalla-2025-11-10-125006.png)](https://postimg.cc/5Hsg9H0K)
 
 ### 2) Desarrolle un progrma que determine si en una lista existe una cadena con dos o mas vocales
